@@ -1,0 +1,3 @@
+Teacher,Mathematics,PhD,40,5,John Doe,1978,101,Male,1,Maths
+Teacher,Physics,Master,35,4,Alice Smith,1985,102,Female,4,Science
+Teacher,Chemistry,Bachelor,25,3,Bob Johnson,1990,103,Male,4,Science
